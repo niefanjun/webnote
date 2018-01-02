@@ -1,3 +1,5 @@
 <template>
-  <div>index page</div>
+  <div>index page
+  <img src="/static/image/test.png" alt="">
+  </div>
 </template>
